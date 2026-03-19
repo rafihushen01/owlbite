@@ -1,0 +1,1 @@
+export const serverurl=process.env.NEXT_SERVER_URL
